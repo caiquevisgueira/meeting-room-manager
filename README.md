@@ -1,7 +1,5 @@
-﻿# Meeting Room Manager
+### Meeting Room Manager
  
-### Spring Boot
-
-### Spring Data JPA
-
-### Angular
+* Spring Boot
+* Spring Data JPA
+* Angular
